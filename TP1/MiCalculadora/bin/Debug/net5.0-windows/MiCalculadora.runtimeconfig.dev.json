@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\nawue\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\nawue\\.nuget\\packages"
+    ]
+  }
+}

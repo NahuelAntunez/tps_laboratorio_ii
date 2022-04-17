@@ -1,0 +1,12 @@
+E:\Tecnicatura en programacion\2Cuatri\Programacion II\TPs\TP1\Entiades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+E:\Tecnicatura en programacion\2Cuatri\Programacion II\TPs\TP1\Entiades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\Tecnicatura en programacion\2Cuatri\Programacion II\TPs\TP1\Entiades\bin\Debug\Entiades.dll
+E:\Tecnicatura en programacion\2Cuatri\Programacion II\TPs\TP1\Entiades\bin\Debug\Entiades.pdb
+E:\Tecnicatura en programacion\2Cuatri\Programacion II\TPs\TP1\Entiades\obj\Debug\Entiades.dll
+E:\Tecnicatura en programacion\2Cuatri\Programacion II\TPs\TP1\Entiades\obj\Debug\Entiades.pdb
+D:\utn\GITS DE OTROS\murakoshi\tps_laboratorio_ii\TP1\Entiades\bin\Debug\Entiades.dll
+D:\utn\GITS DE OTROS\murakoshi\tps_laboratorio_ii\TP1\Entiades\bin\Debug\Entiades.pdb
+D:\utn\GITS DE OTROS\murakoshi\tps_laboratorio_ii\TP1\Entiades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+D:\utn\GITS DE OTROS\murakoshi\tps_laboratorio_ii\TP1\Entiades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\utn\GITS DE OTROS\murakoshi\tps_laboratorio_ii\TP1\Entiades\obj\Debug\Entiades.dll
+D:\utn\GITS DE OTROS\murakoshi\tps_laboratorio_ii\TP1\Entiades\obj\Debug\Entiades.pdb
